@@ -1,1 +1,6 @@
-methods to detect the object(pilgrim) with the help of k-nect
+限定活动区域，处于规定深度范围内的事物，全部识别为人类。其输出颜色由其深度决定。
+
+现在的问题是：
+1. 要区分个体吗
+2. 要上什么颜色
+3. 要3d呈现还是2d
